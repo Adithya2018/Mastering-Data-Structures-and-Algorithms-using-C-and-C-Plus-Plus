@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665931229 source:d:\learning\mastering-data-structures-and-algorithms-using-c-and-c-plus-plus\section 2 - essential c and cpp concepts\practice code\pointers\main.cpp
+	<iostream>
+	<stdlib.h>
+
