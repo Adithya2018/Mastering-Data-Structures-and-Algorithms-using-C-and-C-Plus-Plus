@@ -38,15 +38,27 @@ T Arithmetic<T>::sub(){
 
 template<class T>
 Arithmetic<T>::~Arithmetic(){
-    cout<<"Destructor";
+    cout<<"Destructor \n";
 }
 
 int main()
 {
-    Arithmetic<int> ar(10,5);
+    Arithmetic<int> ar1(10,5);
 
-    cout<<"Addition "<<ar.add()<<endl;
-    cout<<"Substraction "<<ar.sub()<<endl;
+    cout<<"Add. of integers "<<ar1.add()<<endl;
+    cout<<"Sub. of integers "<<ar1.sub()<<endl;
+
+
+    Arithmetic<float> ar2(10.34,5.43);
+
+    cout<<"Add. of float "<<ar2.add()<<endl;
+    cout<<"Sub. of float "<<ar2.sub()<<endl;
+
+
+    Arithmetic<char> ar3('F','B');
+
+    cout<<"Add. of characters "<<ar3.add()<<endl;
+    cout<<"Sub. of characters "<<ar3.sub()<<endl;
 
     return 0;
 }
