@@ -16,5 +16,8 @@ int main()
     r = fun(5);
     printf("%d ",r);
 
+    r = fun(5);
+    printf("%d ",r);
+
     return 0;
 }
