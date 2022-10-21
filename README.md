@@ -1,2 +1,16 @@
 # Mastering-Data-Structures-and-Algorithms-using-C-and-C-Plus-Plus
- This 53 hours of course covers each topic in greater details, every topic is covered on Whiteboard which will improve your Problem Solving and Analytical Skills. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
+
+### Course Contents
+1. Recursion
+2. Arrays Representation
+3. Array ADT
+4. Linked List
+5. Stack
+6. Queues
+7. Trees
+8. Binary Search Tree
+9. AVL Trees
+10. Graphs
+11. Hashing Technique
+
+[Link to Course](https://www.udemy.com/course/datastructurescncpp/)
